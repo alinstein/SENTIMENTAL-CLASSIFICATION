@@ -15,11 +15,12 @@ In our project, we have chosen a few classification techniques, namely:
 
 The code for the project implemented in the file "SENTIMENTAL_CLASSIFCATION.ipynb" 
 
-### Results
+## Results
 
 Following table compares various classifiers:
 
 ![Result image](https://github.com/alinstein/SENTIMENTAL-CLASSIFICATION/blob/master/Resul_IMDB.JPG)
+![Result image](https://github.com/alinstein/SENTIMENTAL-CLASSIFICATION/blob/master/result_rottenT.JPG)
 
 
 
