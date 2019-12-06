@@ -14,12 +14,17 @@ In our project, we have chosen a few classification techniques, namely:
 ## Getting Started
 
 The code for the project implemented in the file "SENTIMENTAL_CLASSIFCATION.ipynb" 
+Dataset for IMDB can be download from: https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset
+Dataset for IMDB can be download from: https://www.kaggle.com/ayushkalla1/rotten-tomatoes-movie-database
 
 ## Results
 
 Following table compares various classifiers:
+Results for IMDB dataset:
 
 ![Result image](https://github.com/alinstein/SENTIMENTAL-CLASSIFICATION/blob/master/Resul_IMDB.JPG)
+
+Results for Rotten Tomatoes dataset:
 ![Result image](https://github.com/alinstein/SENTIMENTAL-CLASSIFICATION/blob/master/result_rottenT.JPG)
 
 
