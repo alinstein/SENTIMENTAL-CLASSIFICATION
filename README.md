@@ -13,9 +13,9 @@ In our project, we have chosen a few classification techniques, namely:
 
 ## Getting Started
 
-The code for the project implemented in the file "SENTIMENTAL_CLASSIFCATION.ipynb" 
-Dataset for IMDB can be download from: https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset
-Dataset for IMDB can be download from: https://www.kaggle.com/ayushkalla1/rotten-tomatoes-movie-database
+The code for the project implemented in the file "SENTIMENTAL_CLASSIFCATION.ipynb",
+Dataset for IMDB can be download from: https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset,
+Dataset for IMDB can be download from: https://www.kaggle.com/ayushkalla1/rotten-tomatoes-movie-database,
 
 ## Results
 
