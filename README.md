@@ -1,4 +1,4 @@
-# Comparison of Sentiment Analysis on Machine learning and Deep learning models
+# Comparison of Machine learning and Deep learning models for Sentiment Analysis 
 
 This project implements machine learning algorithms like Multinomial Naïve Bayes, SVM,  XGBoost, Random Forest, Logistic Regression, deep learning models like LSTM and GRU Neural Network, and finally on Transoformer Models for the  sentimental analysis of movie reviews. 
  
